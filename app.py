@@ -1,3 +1,13 @@
+"""
+File: app.py
+Authors: 
+    - [Zachery Thomas] ([ID 1])
+    - [Collin Vinh Tran] ([47304556])
+    - [Jenny Thao Ly] ([ID 3])
+    - [Lina Nguyen] ([70703520])
+Description: [What this file does (functions/methods used)]
+"""
+
 import gradio as gr
 import json
 from typing import BinaryIO
