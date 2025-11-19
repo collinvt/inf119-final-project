@@ -1,3 +1,13 @@
+"""
+File: app.py
+Authors: 
+    - [Zachery Thomas] ([47642149])
+    - [Collin Vinh Tran] ([47304556])
+    - [Jenny Thao Ly] ([83605957])
+    - [Lina Nguyen] ([70703520])
+Description: [What this file does (functions/methods used)]
+"""
+
 # Coordinates the multi-agent workflow:
 #   1. PlannerAgent -> produce plan.
 #   2. CoderAgent   -> generate application code.
